@@ -1,0 +1,25 @@
+.places{
+    font-family: cursive;
+}
+.img{
+   padding-left: 80px !important; 
+     padding-right: 80px !important; 
+    padding-bottom: 30px;
+  
+}
+.navtext{
+    font-size: 300% !important;
+    color:white!important;
+}
+.heightnav{
+    padding: 15px;
+
+    
+}
+.background{
+    background-color: black;
+    margin-top: -22px !important;
+}
+.caption{
+    color: aliceblue !important;
+}

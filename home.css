@@ -1,0 +1,93 @@
+.navtext{
+    font-size: 300% !important;
+    color:white!important;
+}
+.heightnav{
+    padding: 15px;
+
+    
+}
+#myCarousel{
+   
+}
+.carousel{
+    margin: -22px;
+}
+.about{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.card{
+  padding-bottom: 30px;  
+}
+.text{
+    margin: -3px;
+    margin-right: 150px
+    
+}
+.paragraph{
+    margin-top: 25px;
+    font-family:cursive;
+    font-size: 18px;
+    
+}
+.thankyou{
+    font-family: cursive;
+    padding-left: 60px;
+   
+    text-transform: capitalize;
+}
+.cardcolumn{
+    margin-left: 100px;
+}
+.cardcolum2{
+    margin-left: 60px;
+}
+.column3{
+     margin-left: 30px;
+}
+#contact{
+    
+   padding-bottom: 40px;
+    padding-top: 20px;
+   
+}
+.color{
+    background-color: dodgerblue;
+}
+.gallery{
+    padding-bottom: 50px;
+    background-color: dodgerblue;
+}
+.gallery3{
+    margin-left: 100px;
+}
+.gallery2{
+    margin-left: 60px;
+}
+.gallery1{
+     margin-left: 30px;
+}
+.gallery6{
+    margin-left: 100px;
+}
+.gallery5{
+    margin-left: 60px;
+}
+.gallery4{
+    margin-left: 30px;
+}
+.gallerypadding{
+    padding-bottom: 60px;
+    background-color: dodgerblue;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+}
+.follow{
+    background-color: dodgerblue;
+    color: aliceblue;
+}
+

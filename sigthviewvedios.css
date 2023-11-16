@@ -1,0 +1,18 @@
+.navtext{
+    font-size: 300% !important;
+    color:white!important;
+}
+.heightnav{
+    padding: 15px;
+
+    
+}
+.color{
+    background-color: black;
+    margin-top: -19px !important;
+    padding-top: 20px;
+    padding-bottom:  20px;
+}
+.bg-primary{
+    margin-top: -19px;
+}
